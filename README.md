@@ -1,4 +1,4 @@
-App is deploy on surge click to checkout ====> https://bloging-site.surge.sh/
+App is deploy on surge click to checkout ====> http://bloging-site.surge.sh/
 
 ### `npm install`
 
